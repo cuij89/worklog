@@ -363,3 +363,4 @@
 - 2021-01-06 18:52 rename variables for clarity
 - 2021-01-07 18:37 rename variables for clarity
 - 2021-01-07 15:46 clean up config
+- 2021-01-07 18:52 small doc fix
