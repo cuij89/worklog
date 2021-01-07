@@ -365,3 +365,4 @@
 - 2021-01-07 15:46 clean up config
 - 2021-01-07 18:52 small doc fix
 - 2021-01-07 15:52 fix path handling
+- 2021-01-07 17:14 tweak plotting defaults
