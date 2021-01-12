@@ -367,3 +367,4 @@
 - 2021-01-07 15:52 fix path handling
 - 2021-01-07 17:14 tweak plotting defaults
 - 2021-01-12 11:15 rename variables for clarity
+- 2021-01-12 12:00 update dependency list
