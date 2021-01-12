@@ -368,3 +368,4 @@
 - 2021-01-07 17:14 tweak plotting defaults
 - 2021-01-12 11:15 rename variables for clarity
 - 2021-01-12 12:00 update dependency list
+- 2021-01-12 10:03 rename variables for clarity
