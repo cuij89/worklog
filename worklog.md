@@ -369,3 +369,4 @@
 - 2021-01-12 11:15 rename variables for clarity
 - 2021-01-12 12:00 update dependency list
 - 2021-01-12 10:03 rename variables for clarity
+- 2021-01-15 11:16 add scratch analysis
