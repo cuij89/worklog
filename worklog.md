@@ -374,3 +374,4 @@
 - 2021-01-17 20:27 small doc fix
 - 2021-01-20 12:08 add scratch analysis
 - 2021-01-20 11:56 add scratch analysis
+- 2021-01-20 16:37 update notes
