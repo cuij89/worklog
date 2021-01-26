@@ -380,3 +380,4 @@
 - 2021-01-26 14:27 add scratch analysis
 - 2021-01-26 11:11 fix path handling
 - 2021-01-26 11:46 update dependency list
+- 2021-01-26 11:30 rename variables for clarity
