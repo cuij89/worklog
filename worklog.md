@@ -388,3 +388,4 @@
 - 2021-02-12 15:29 small doc fix
 - 2021-02-12 13:44 clean up config
 - 2021-02-12 14:38 tweak plotting defaults
+- 2021-02-12 15:30 refactor helper functions
