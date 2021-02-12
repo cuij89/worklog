@@ -387,3 +387,4 @@
 - 2021-02-05 13:24 rename variables for clarity
 - 2021-02-12 15:29 small doc fix
 - 2021-02-12 13:44 clean up config
+- 2021-02-12 14:38 tweak plotting defaults
