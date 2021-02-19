@@ -391,3 +391,4 @@
 - 2021-02-12 15:30 refactor helper functions
 - 2021-02-15 14:22 tweak plotting defaults
 - 2021-02-17 14:56 update dependency list
+- 2021-02-19 15:14 add scratch analysis
