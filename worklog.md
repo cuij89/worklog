@@ -396,3 +396,4 @@
 - 2021-02-24 14:10 clean up config
 - 2021-02-24 11:38 refactor helper functions
 - 2021-02-24 15:25 rename variables for clarity
+- 2021-02-26 15:23 fix path handling
