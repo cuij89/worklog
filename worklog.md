@@ -400,3 +400,4 @@
 - 2021-02-26 12:51 small doc fix
 - 2021-02-26 15:04 clean up config
 - 2021-03-01 17:37 tweak plotting defaults
+- 2021-03-02 12:32 clean up config
