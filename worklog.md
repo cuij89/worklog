@@ -404,3 +404,4 @@
 - 2021-03-04 11:04 update dependency list
 - 2021-03-04 10:13 small doc fix
 - 2021-03-15 11:19 drop unused imports
+- 2021-03-15 10:56 clean up config
