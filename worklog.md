@@ -405,3 +405,4 @@
 - 2021-03-04 10:13 small doc fix
 - 2021-03-15 11:19 drop unused imports
 - 2021-03-15 10:56 clean up config
+- 2021-03-22 17:43 rename variables for clarity
