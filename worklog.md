@@ -409,3 +409,4 @@
 - 2021-03-22 16:24 tweak plotting defaults
 - 2021-03-30 14:04 drop unused imports
 - 2021-03-30 14:17 clean up config
+- 2021-03-30 15:35 refactor helper functions
