@@ -411,3 +411,4 @@
 - 2021-03-30 14:17 clean up config
 - 2021-03-30 15:35 refactor helper functions
 - 2021-03-30 18:02 tweak plotting defaults
+- 2021-03-31 16:53 fix path handling
