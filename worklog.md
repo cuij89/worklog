@@ -416,3 +416,4 @@
 - 2021-03-31 16:16 add scratch analysis
 - 2021-04-06 11:31 tweak plotting defaults
 - 2021-04-12 14:31 update notes
+- 2021-04-12 12:04 clean up config
