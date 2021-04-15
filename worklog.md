@@ -418,3 +418,4 @@
 - 2021-04-12 14:31 update notes
 - 2021-04-12 12:04 clean up config
 - 2021-04-15 18:00 update notes
+- 2021-04-15 17:50 small doc fix
