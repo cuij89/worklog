@@ -419,3 +419,4 @@
 - 2021-04-12 12:04 clean up config
 - 2021-04-15 18:00 update notes
 - 2021-04-15 17:50 small doc fix
+- 2021-04-15 16:58 add scratch analysis
