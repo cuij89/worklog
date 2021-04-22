@@ -428,3 +428,4 @@
 - 2021-04-22 10:25 drop unused imports
 - 2021-04-22 12:30 rename variables for clarity
 - 2021-04-22 16:01 rename variables for clarity
+- 2021-04-22 13:50 clean up config
