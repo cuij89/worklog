@@ -431,3 +431,4 @@
 - 2021-04-22 13:50 clean up config
 - 2021-04-23 14:45 clean up config
 - 2021-04-23 18:00 refactor helper functions
+- 2021-04-23 14:12 add scratch analysis
