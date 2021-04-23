@@ -433,3 +433,4 @@
 - 2021-04-23 18:00 refactor helper functions
 - 2021-04-23 14:12 add scratch analysis
 - 2021-04-23 10:21 tweak plotting defaults
+- 2021-04-23 16:45 fix path handling
