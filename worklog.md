@@ -435,3 +435,4 @@
 - 2021-04-23 10:21 tweak plotting defaults
 - 2021-04-23 16:45 fix path handling
 - 2021-05-04 17:00 update notes
+- 2021-05-04 12:13 tweak plotting defaults
