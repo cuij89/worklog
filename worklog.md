@@ -437,3 +437,4 @@
 - 2021-05-04 17:00 update notes
 - 2021-05-04 12:13 tweak plotting defaults
 - 2021-05-04 14:48 tweak plotting defaults
+- 2021-05-07 18:31 drop unused imports
