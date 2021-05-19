@@ -445,3 +445,4 @@
 - 2021-05-12 11:17 rename variables for clarity
 - 2021-05-14 10:49 fix path handling
 - 2021-05-14 14:16 refactor helper functions
+- 2021-05-19 16:07 add scratch analysis
