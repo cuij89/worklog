@@ -455,3 +455,4 @@
 - 2021-05-28 16:32 add scratch analysis
 - 2021-06-09 11:04 clean up config
 - 2021-06-11 16:31 rename variables for clarity
+- 2021-06-11 16:03 rename variables for clarity
