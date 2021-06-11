@@ -454,3 +454,4 @@
 - 2021-05-28 18:47 drop unused imports
 - 2021-05-28 16:32 add scratch analysis
 - 2021-06-09 11:04 clean up config
+- 2021-06-11 16:31 rename variables for clarity
