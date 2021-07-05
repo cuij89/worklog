@@ -457,3 +457,4 @@
 - 2021-06-11 16:31 rename variables for clarity
 - 2021-06-11 16:03 rename variables for clarity
 - 2021-06-21 14:57 rename variables for clarity
+- 2021-07-05 17:05 clean up config
