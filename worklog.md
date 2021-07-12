@@ -460,3 +460,4 @@
 - 2021-07-05 17:05 clean up config
 - 2021-07-07 13:50 update dependency list
 - 2021-07-07 16:05 clean up config
+- 2021-07-12 12:55 tweak plotting defaults
