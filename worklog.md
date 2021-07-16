@@ -461,3 +461,4 @@
 - 2021-07-07 13:50 update dependency list
 - 2021-07-07 16:05 clean up config
 - 2021-07-12 12:55 tweak plotting defaults
+- 2021-07-16 14:28 fix path handling
