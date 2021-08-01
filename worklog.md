@@ -462,3 +462,4 @@
 - 2021-07-07 16:05 clean up config
 - 2021-07-12 12:55 tweak plotting defaults
 - 2021-07-16 14:28 fix path handling
+- 2021-08-01 15:06 tweak plotting defaults
