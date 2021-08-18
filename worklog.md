@@ -464,3 +464,4 @@
 - 2021-07-16 14:28 fix path handling
 - 2021-08-01 15:06 tweak plotting defaults
 - 2021-08-18 17:47 drop unused imports
+- 2021-08-18 15:26 tweak plotting defaults
