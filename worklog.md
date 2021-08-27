@@ -472,3 +472,4 @@
 - 2021-08-27 15:51 clean up config
 - 2021-08-27 17:32 drop unused imports
 - 2021-08-27 13:55 update notes
+- 2021-08-27 14:02 tweak plotting defaults
