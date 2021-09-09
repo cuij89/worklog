@@ -474,3 +474,4 @@
 - 2021-08-27 13:55 update notes
 - 2021-08-27 14:02 tweak plotting defaults
 - 2021-08-27 16:30 drop unused imports
+- 2021-09-09 16:12 update notes
