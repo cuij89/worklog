@@ -479,3 +479,4 @@
 - 2021-09-16 10:03 drop unused imports
 - 2021-09-21 17:11 drop unused imports
 - 2021-09-22 16:36 rename variables for clarity
+- 2021-09-22 10:27 update notes
