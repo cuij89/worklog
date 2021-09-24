@@ -481,3 +481,4 @@
 - 2021-09-22 16:36 rename variables for clarity
 - 2021-09-22 10:27 update notes
 - 2021-09-24 10:22 small doc fix
+- 2021-09-24 17:35 fix path handling
