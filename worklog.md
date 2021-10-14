@@ -483,3 +483,4 @@
 - 2021-09-24 10:22 small doc fix
 - 2021-09-24 17:35 fix path handling
 - 2021-09-24 10:00 fix path handling
+- 2021-10-14 18:54 update dependency list
