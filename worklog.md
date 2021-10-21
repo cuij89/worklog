@@ -484,3 +484,4 @@
 - 2021-09-24 17:35 fix path handling
 - 2021-09-24 10:00 fix path handling
 - 2021-10-14 18:54 update dependency list
+- 2021-10-21 11:20 tweak plotting defaults
