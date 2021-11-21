@@ -487,3 +487,4 @@
 - 2021-10-21 11:20 tweak plotting defaults
 - 2021-10-31 17:28 small doc fix
 - 2021-11-02 16:28 rename variables for clarity
+- 2021-11-21 14:35 drop unused imports
