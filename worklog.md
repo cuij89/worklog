@@ -495,3 +495,4 @@
 - 2021-11-29 11:36 drop unused imports
 - 2021-12-02 15:13 refactor helper functions
 - 2021-12-06 17:46 drop unused imports
+- 2021-12-07 17:16 update dependency list
