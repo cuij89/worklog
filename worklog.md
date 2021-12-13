@@ -498,3 +498,4 @@
 - 2021-12-07 17:16 update dependency list
 - 2021-12-07 12:04 refactor helper functions
 - 2021-12-12 19:00 clean up config
+- 2021-12-12 20:00 rename variables for clarity
