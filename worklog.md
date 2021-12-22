@@ -503,3 +503,4 @@
 - 2021-12-15 18:11 rename variables for clarity
 - 2021-12-15 18:13 add scratch analysis
 - 2021-12-16 17:15 refactor helper functions
+- 2021-12-22 13:33 update dependency list
