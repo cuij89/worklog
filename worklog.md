@@ -510,3 +510,4 @@
 - 2022-01-03 10:29 update notes
 - 2022-01-03 15:29 tweak plotting defaults
 - 2022-01-08 14:27 small doc fix
+- 2022-01-11 17:56 drop unused imports
