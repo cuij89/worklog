@@ -513,3 +513,4 @@
 - 2022-01-11 17:56 drop unused imports
 - 2022-01-11 17:15 drop unused imports
 - 2022-01-12 16:27 tweak plotting defaults
+- 2022-01-26 11:06 small doc fix
