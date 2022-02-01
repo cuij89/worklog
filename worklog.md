@@ -515,3 +515,4 @@
 - 2022-01-12 16:27 tweak plotting defaults
 - 2022-01-26 11:06 small doc fix
 - 2022-01-26 11:29 update notes
+- 2022-02-01 16:28 clean up config
