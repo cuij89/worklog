@@ -516,3 +516,4 @@
 - 2022-01-26 11:06 small doc fix
 - 2022-01-26 11:29 update notes
 - 2022-02-01 16:28 clean up config
+- 2022-02-01 16:54 refactor helper functions
