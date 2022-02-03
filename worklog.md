@@ -518,3 +518,4 @@
 - 2022-02-01 16:28 clean up config
 - 2022-02-01 16:54 refactor helper functions
 - 2022-02-03 17:28 small doc fix
+- 2022-02-03 17:22 rename variables for clarity
