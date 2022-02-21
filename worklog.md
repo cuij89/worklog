@@ -525,3 +525,4 @@
 - 2022-02-18 11:31 fix path handling
 - 2022-02-18 17:54 refactor helper functions
 - 2022-02-21 16:10 drop unused imports
+- 2022-02-21 13:03 clean up config
