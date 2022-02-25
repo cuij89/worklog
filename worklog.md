@@ -530,3 +530,4 @@
 - 2022-02-23 17:16 add scratch analysis
 - 2022-02-25 14:43 update notes
 - 2022-02-25 11:15 rename variables for clarity
+- 2022-02-25 10:09 update dependency list
