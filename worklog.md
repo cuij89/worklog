@@ -533,3 +533,4 @@
 - 2022-02-25 10:09 update dependency list
 - 2022-02-26 16:12 rename variables for clarity
 - 2022-03-10 17:21 fix path handling
+- 2022-03-10 17:20 small doc fix
