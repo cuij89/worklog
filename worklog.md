@@ -536,3 +536,4 @@
 - 2022-03-10 17:20 small doc fix
 - 2022-03-10 13:18 add scratch analysis
 - 2022-03-11 17:25 add scratch analysis
+- 2022-03-11 15:56 update notes
