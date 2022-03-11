@@ -537,3 +537,4 @@
 - 2022-03-10 13:18 add scratch analysis
 - 2022-03-11 17:25 add scratch analysis
 - 2022-03-11 15:56 update notes
+- 2022-03-11 18:47 refactor helper functions
