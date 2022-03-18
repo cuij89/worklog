@@ -540,3 +540,4 @@
 - 2022-03-11 18:47 refactor helper functions
 - 2022-03-15 18:49 rename variables for clarity
 - 2022-03-18 13:25 fix path handling
+- 2022-03-18 14:55 add scratch analysis
