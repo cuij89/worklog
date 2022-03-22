@@ -543,3 +543,4 @@
 - 2022-03-18 14:55 add scratch analysis
 - 2022-03-18 14:06 drop unused imports
 - 2022-03-21 12:58 clean up config
+- 2022-03-22 13:48 update notes
