@@ -549,3 +549,4 @@
 - 2022-03-23 12:06 update notes
 - 2022-03-28 13:41 tweak plotting defaults
 - 2022-03-28 15:08 refactor helper functions
+- 2022-03-30 15:50 small doc fix
