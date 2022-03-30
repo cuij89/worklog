@@ -550,3 +550,4 @@
 - 2022-03-28 13:41 tweak plotting defaults
 - 2022-03-28 15:08 refactor helper functions
 - 2022-03-30 15:50 small doc fix
+- 2022-03-30 10:25 add scratch analysis
