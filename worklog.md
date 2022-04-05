@@ -553,3 +553,4 @@
 - 2022-03-30 10:25 add scratch analysis
 - 2022-04-01 17:25 small doc fix
 - 2022-04-01 10:48 update dependency list
+- 2022-04-05 14:45 rename variables for clarity
