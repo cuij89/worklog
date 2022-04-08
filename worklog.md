@@ -556,3 +556,4 @@
 - 2022-04-05 14:45 rename variables for clarity
 - 2022-04-05 14:08 clean up config
 - 2022-04-06 14:11 update notes
+- 2022-04-08 15:25 update notes
