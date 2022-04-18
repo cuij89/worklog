@@ -561,3 +561,4 @@
 - 2022-04-12 18:21 add scratch analysis
 - 2022-04-18 18:26 clean up config
 - 2022-04-18 11:17 update notes
+- 2022-04-18 18:33 clean up config
