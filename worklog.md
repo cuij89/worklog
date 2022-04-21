@@ -564,3 +564,4 @@
 - 2022-04-18 18:33 clean up config
 - 2022-04-18 11:32 tweak plotting defaults
 - 2022-04-21 16:30 drop unused imports
+- 2022-04-21 17:29 update notes
