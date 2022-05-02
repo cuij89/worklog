@@ -569,3 +569,4 @@
 - 2022-04-22 12:07 drop unused imports
 - 2022-04-30 19:30 clean up config
 - 2022-04-30 16:25 small doc fix
+- 2022-05-02 16:18 add scratch analysis
