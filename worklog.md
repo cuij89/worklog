@@ -573,3 +573,4 @@
 - 2022-05-04 17:54 update dependency list
 - 2022-05-04 12:14 small doc fix
 - 2022-05-04 17:59 refactor helper functions
+- 2022-05-04 14:51 update notes
