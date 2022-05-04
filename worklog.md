@@ -572,3 +572,4 @@
 - 2022-05-02 16:18 add scratch analysis
 - 2022-05-04 17:54 update dependency list
 - 2022-05-04 12:14 small doc fix
+- 2022-05-04 17:59 refactor helper functions
