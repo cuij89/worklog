@@ -577,3 +577,4 @@
 - 2022-05-05 11:06 fix path handling
 - 2022-05-09 13:37 drop unused imports
 - 2022-05-16 18:46 drop unused imports
+- 2022-05-23 13:01 update dependency list
