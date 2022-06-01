@@ -581,3 +581,4 @@
 - 2022-05-23 10:14 small doc fix
 - 2022-05-23 14:49 drop unused imports
 - 2022-05-31 18:20 clean up config
+- 2022-06-01 15:39 update notes
