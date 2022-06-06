@@ -585,3 +585,4 @@
 - 2022-06-03 11:26 clean up config
 - 2022-06-03 14:25 add scratch analysis
 - 2022-06-03 11:01 add scratch analysis
+- 2022-06-06 11:57 fix path handling
