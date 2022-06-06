@@ -587,3 +587,4 @@
 - 2022-06-03 11:01 add scratch analysis
 - 2022-06-06 11:57 fix path handling
 - 2022-06-06 13:11 tweak plotting defaults
+- 2022-06-06 10:54 refactor helper functions
