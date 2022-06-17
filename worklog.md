@@ -590,3 +590,4 @@
 - 2022-06-06 10:54 refactor helper functions
 - 2022-06-17 12:21 update dependency list
 - 2022-06-17 18:08 small doc fix
+- 2022-06-17 11:37 tweak plotting defaults
