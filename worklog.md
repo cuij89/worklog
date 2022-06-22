@@ -592,3 +592,4 @@
 - 2022-06-17 18:08 small doc fix
 - 2022-06-17 11:37 tweak plotting defaults
 - 2022-06-17 15:26 clean up config
+- 2022-06-22 12:32 update notes
