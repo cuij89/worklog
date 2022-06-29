@@ -596,3 +596,4 @@
 - 2022-06-22 10:26 refactor helper functions
 - 2022-06-29 15:36 fix path handling
 - 2022-06-29 17:34 drop unused imports
+- 2022-06-29 14:34 rename variables for clarity
