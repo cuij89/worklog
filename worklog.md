@@ -602,3 +602,4 @@
 - 2022-06-30 14:24 drop unused imports
 - 2022-07-04 15:58 small doc fix
 - 2022-07-04 12:44 clean up config
+- 2022-07-04 14:43 rename variables for clarity
