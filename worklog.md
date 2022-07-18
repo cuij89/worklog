@@ -607,3 +607,4 @@
 - 2022-07-04 16:15 update dependency list
 - 2022-07-12 13:47 update notes
 - 2022-07-18 10:17 add scratch analysis
+- 2022-07-18 18:56 small doc fix
