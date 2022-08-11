@@ -610,3 +610,4 @@
 - 2022-07-18 18:56 small doc fix
 - 2022-07-18 11:49 rename variables for clarity
 - 2022-07-27 17:04 clean up config
+- 2022-08-11 18:59 refactor helper functions
