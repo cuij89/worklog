@@ -617,3 +617,4 @@
 - 2022-08-17 17:10 rename variables for clarity
 - 2022-08-17 10:09 add scratch analysis
 - 2022-08-19 12:24 drop unused imports
+- 2022-08-19 16:11 fix path handling
