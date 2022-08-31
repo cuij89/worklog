@@ -618,3 +618,4 @@
 - 2022-08-17 10:09 add scratch analysis
 - 2022-08-19 12:24 drop unused imports
 - 2022-08-19 16:11 fix path handling
+- 2022-08-31 11:36 refactor helper functions
