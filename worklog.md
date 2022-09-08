@@ -623,3 +623,4 @@
 - 2022-09-08 17:00 small doc fix
 - 2022-09-08 10:16 update notes
 - 2022-09-08 11:43 update notes
+- 2022-09-08 11:20 clean up config
