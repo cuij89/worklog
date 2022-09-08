@@ -620,3 +620,4 @@
 - 2022-08-19 16:11 fix path handling
 - 2022-08-31 11:36 refactor helper functions
 - 2022-08-31 12:01 refactor helper functions
+- 2022-09-08 17:00 small doc fix
