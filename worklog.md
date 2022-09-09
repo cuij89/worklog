@@ -628,3 +628,4 @@
 - 2022-09-09 12:32 small doc fix
 - 2022-09-09 14:31 drop unused imports
 - 2022-09-09 11:39 refactor helper functions
+- 2022-09-09 11:32 add scratch analysis
