@@ -637,3 +637,4 @@
 - 2022-09-30 16:00 update notes
 - 2022-09-30 15:11 add scratch analysis
 - 2022-09-30 11:31 clean up config
+- 2022-09-30 12:47 rename variables for clarity
