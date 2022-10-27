@@ -647,3 +647,4 @@
 - 2022-10-20 11:47 clean up config
 - 2022-10-20 15:15 drop unused imports
 - 2022-10-27 10:40 drop unused imports
+- 2022-10-27 14:48 tweak plotting defaults
