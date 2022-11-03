@@ -649,3 +649,4 @@
 - 2022-10-27 10:40 drop unused imports
 - 2022-10-27 14:48 tweak plotting defaults
 - 2022-10-27 13:48 update notes
+- 2022-11-03 18:57 fix path handling
