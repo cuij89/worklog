@@ -655,3 +655,4 @@
 - 2022-11-03 18:46 drop unused imports
 - 2022-11-07 17:23 rename variables for clarity
 - 2022-11-08 18:05 tweak plotting defaults
+- 2022-11-08 12:45 tweak plotting defaults
