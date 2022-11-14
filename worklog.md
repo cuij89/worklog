@@ -658,3 +658,4 @@
 - 2022-11-08 12:45 tweak plotting defaults
 - 2022-11-08 14:48 add scratch analysis
 - 2022-11-10 12:11 small doc fix
+- 2022-11-14 13:41 clean up config
