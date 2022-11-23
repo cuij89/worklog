@@ -661,3 +661,4 @@
 - 2022-11-14 13:41 clean up config
 - 2022-11-18 18:00 drop unused imports
 - 2022-11-18 14:34 refactor helper functions
+- 2022-11-23 16:46 update dependency list
