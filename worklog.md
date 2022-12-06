@@ -668,3 +668,4 @@
 - 2022-11-30 18:34 fix path handling
 - 2022-11-30 13:08 refactor helper functions
 - 2022-12-06 12:30 rename variables for clarity
+- 2022-12-06 11:11 update dependency list
