@@ -671,3 +671,4 @@
 - 2022-12-06 11:11 update dependency list
 - 2022-12-08 12:57 tweak plotting defaults
 - 2022-12-08 18:37 update dependency list
+- 2022-12-14 15:59 update notes
