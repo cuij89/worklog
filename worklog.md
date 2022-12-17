@@ -674,3 +674,4 @@
 - 2022-12-14 15:59 update notes
 - 2022-12-15 12:46 refactor helper functions
 - 2022-12-16 17:31 update dependency list
+- 2022-12-17 18:30 small doc fix
