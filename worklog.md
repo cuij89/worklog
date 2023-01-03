@@ -682,3 +682,4 @@
 - 2023-01-02 14:24 fix path handling
 - 2023-01-02 13:05 drop unused imports
 - 2023-01-03 16:35 refactor helper functions
+- 2023-01-03 18:50 rename variables for clarity
