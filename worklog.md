@@ -692,3 +692,4 @@
 - 2023-01-11 15:10 update notes
 - 2023-01-11 12:47 refactor helper functions
 - 2023-01-15 14:19 fix path handling
+- 2023-01-15 19:47 refactor helper functions
