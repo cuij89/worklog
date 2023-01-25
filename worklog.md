@@ -698,3 +698,4 @@
 - 2023-01-18 15:58 drop unused imports
 - 2023-01-18 14:59 add scratch analysis
 - 2023-01-18 13:39 tweak plotting defaults
+- 2023-01-25 13:07 add scratch analysis
