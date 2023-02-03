@@ -707,3 +707,4 @@
 - 2023-01-31 10:17 small doc fix
 - 2023-02-02 13:51 update dependency list
 - 2023-02-02 10:31 clean up config
+- 2023-02-03 13:19 fix path handling
