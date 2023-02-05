@@ -708,3 +708,4 @@
 - 2023-02-02 13:51 update dependency list
 - 2023-02-02 10:31 clean up config
 - 2023-02-03 13:19 fix path handling
+- 2023-02-05 17:30 rename variables for clarity
