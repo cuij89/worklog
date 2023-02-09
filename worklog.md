@@ -713,3 +713,4 @@
 - 2023-02-08 18:07 update notes
 - 2023-02-08 13:01 add scratch analysis
 - 2023-02-09 17:20 update dependency list
+- 2023-02-09 14:37 fix path handling
