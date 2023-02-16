@@ -718,3 +718,4 @@
 - 2023-02-12 22:24 drop unused imports
 - 2023-02-13 13:43 clean up config
 - 2023-02-15 15:48 update notes
+- 2023-02-16 10:39 small doc fix
