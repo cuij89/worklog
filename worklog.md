@@ -720,3 +720,4 @@
 - 2023-02-15 15:48 update notes
 - 2023-02-16 10:39 small doc fix
 - 2023-02-16 14:42 fix path handling
+- 2023-02-16 17:44 clean up config
