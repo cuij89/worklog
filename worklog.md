@@ -729,3 +729,4 @@
 - 2023-02-23 16:07 update dependency list
 - 2023-02-24 15:44 clean up config
 - 2023-02-24 10:47 refactor helper functions
+- 2023-02-24 12:22 small doc fix
