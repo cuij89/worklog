@@ -731,3 +731,4 @@
 - 2023-02-24 10:47 refactor helper functions
 - 2023-02-24 12:22 small doc fix
 - 2023-02-27 11:43 tweak plotting defaults
+- 2023-02-27 11:07 clean up config
