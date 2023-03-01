@@ -733,3 +733,4 @@
 - 2023-02-27 11:43 tweak plotting defaults
 - 2023-02-27 11:07 clean up config
 - 2023-03-01 16:25 rename variables for clarity
+- 2023-03-01 13:51 refactor helper functions
