@@ -732,3 +732,4 @@
 - 2023-02-24 12:22 small doc fix
 - 2023-02-27 11:43 tweak plotting defaults
 - 2023-02-27 11:07 clean up config
+- 2023-03-01 16:25 rename variables for clarity
