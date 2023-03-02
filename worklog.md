@@ -737,3 +737,4 @@
 - 2023-03-02 13:45 refactor helper functions
 - 2023-03-02 13:51 rename variables for clarity
 - 2023-03-02 11:50 small doc fix
+- 2023-03-02 10:02 update notes
