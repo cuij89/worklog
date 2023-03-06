@@ -739,3 +739,4 @@
 - 2023-03-02 11:50 small doc fix
 - 2023-03-02 10:02 update notes
 - 2023-03-02 17:06 drop unused imports
+- 2023-03-06 13:47 add scratch analysis
