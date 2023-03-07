@@ -742,3 +742,4 @@
 - 2023-03-06 13:47 add scratch analysis
 - 2023-03-07 12:20 add scratch analysis
 - 2023-03-07 13:52 rename variables for clarity
+- 2023-03-07 16:27 update notes
