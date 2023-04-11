@@ -758,3 +758,4 @@
 - 2023-04-07 18:57 small doc fix
 - 2023-04-10 12:57 update notes
 - 2023-04-10 10:39 add scratch analysis
+- 2023-04-11 17:53 refactor helper functions
