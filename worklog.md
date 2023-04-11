@@ -760,3 +760,4 @@
 - 2023-04-10 10:39 add scratch analysis
 - 2023-04-11 17:53 refactor helper functions
 - 2023-04-11 10:18 fix path handling
+- 2023-04-11 10:25 refactor helper functions
