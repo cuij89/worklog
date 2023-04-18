@@ -771,3 +771,4 @@
 - 2023-04-17 16:45 update notes
 - 2023-04-17 13:57 tweak plotting defaults
 - 2023-04-18 11:49 refactor helper functions
+- 2023-04-18 14:56 fix path handling
