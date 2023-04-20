@@ -774,3 +774,4 @@
 - 2023-04-18 14:56 fix path handling
 - 2023-04-18 16:22 tweak plotting defaults
 - 2023-04-18 14:47 update dependency list
+- 2023-04-20 10:44 update notes
