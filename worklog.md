@@ -776,3 +776,4 @@
 - 2023-04-18 14:47 update dependency list
 - 2023-04-20 10:44 update notes
 - 2023-04-20 11:46 add scratch analysis
+- 2023-04-20 11:28 tweak plotting defaults
