@@ -777,3 +777,4 @@
 - 2023-04-20 10:44 update notes
 - 2023-04-20 11:46 add scratch analysis
 - 2023-04-20 11:28 tweak plotting defaults
+- 2023-04-21 11:42 fix path handling
