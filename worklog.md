@@ -781,3 +781,4 @@
 - 2023-04-24 18:06 tweak plotting defaults
 - 2023-04-24 12:06 rename variables for clarity
 - 2023-04-24 15:30 rename variables for clarity
+- 2023-04-24 12:54 update notes
