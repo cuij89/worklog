@@ -779,3 +779,4 @@
 - 2023-04-20 11:28 tweak plotting defaults
 - 2023-04-21 11:42 fix path handling
 - 2023-04-24 18:06 tweak plotting defaults
+- 2023-04-24 12:06 rename variables for clarity
