@@ -784,3 +784,4 @@
 - 2023-04-24 12:54 update notes
 - 2023-05-02 10:05 update notes
 - 2023-05-02 18:26 rename variables for clarity
+- 2023-05-02 18:20 small doc fix
