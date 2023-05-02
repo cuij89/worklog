@@ -785,3 +785,4 @@
 - 2023-05-02 10:05 update notes
 - 2023-05-02 18:26 rename variables for clarity
 - 2023-05-02 18:20 small doc fix
+- 2023-05-02 14:46 tweak plotting defaults
