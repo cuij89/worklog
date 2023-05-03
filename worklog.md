@@ -787,3 +787,4 @@
 - 2023-05-02 18:20 small doc fix
 - 2023-05-02 14:46 tweak plotting defaults
 - 2023-05-03 17:49 tweak plotting defaults
+- 2023-05-03 14:51 fix path handling
