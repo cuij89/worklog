@@ -791,3 +791,4 @@
 - 2023-05-04 17:05 clean up config
 - 2023-05-06 21:48 fix path handling
 - 2023-05-07 21:16 drop unused imports
+- 2023-05-07 19:04 update dependency list
