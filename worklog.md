@@ -798,3 +798,4 @@
 - 2023-05-11 13:45 rename variables for clarity
 - 2023-05-11 15:49 rename variables for clarity
 - 2023-05-11 12:47 rename variables for clarity
+- 2023-05-17 13:21 add scratch analysis
