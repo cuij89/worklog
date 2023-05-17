@@ -799,3 +799,4 @@
 - 2023-05-11 15:49 rename variables for clarity
 - 2023-05-11 12:47 rename variables for clarity
 - 2023-05-17 13:21 add scratch analysis
+- 2023-05-17 18:59 tweak plotting defaults
