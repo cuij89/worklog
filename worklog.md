@@ -803,3 +803,4 @@
 - 2023-05-17 18:53 add scratch analysis
 - 2023-05-17 18:34 drop unused imports
 - 2023-05-19 16:22 update notes
+- 2023-05-26 14:35 tweak plotting defaults
