@@ -805,3 +805,4 @@
 - 2023-05-19 16:22 update notes
 - 2023-05-26 14:35 tweak plotting defaults
 - 2023-05-26 18:58 small doc fix
+- 2023-05-27 11:40 clean up config
