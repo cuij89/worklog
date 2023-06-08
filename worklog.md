@@ -808,3 +808,4 @@
 - 2023-05-27 11:40 clean up config
 - 2023-05-27 19:43 update dependency list
 - 2023-06-06 18:11 refactor helper functions
+- 2023-06-08 17:25 update notes
