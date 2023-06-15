@@ -815,3 +815,4 @@
 - 2023-06-12 15:45 update notes
 - 2023-06-12 16:04 update dependency list
 - 2023-06-15 13:34 update dependency list
+- 2023-06-15 12:47 rename variables for clarity
