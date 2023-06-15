@@ -818,3 +818,4 @@
 - 2023-06-15 12:47 rename variables for clarity
 - 2023-06-15 11:25 small doc fix
 - 2023-06-15 11:41 add scratch analysis
+- 2023-06-15 16:37 clean up config
