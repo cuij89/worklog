@@ -820,3 +820,4 @@
 - 2023-06-15 11:41 add scratch analysis
 - 2023-06-15 16:37 clean up config
 - 2023-06-16 10:35 update dependency list
+- 2023-06-19 12:14 small doc fix
