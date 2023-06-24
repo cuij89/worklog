@@ -822,3 +822,4 @@
 - 2023-06-16 10:35 update dependency list
 - 2023-06-19 12:14 small doc fix
 - 2023-06-24 17:35 fix path handling
+- 2023-06-24 16:31 update notes
