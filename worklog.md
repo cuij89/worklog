@@ -826,3 +826,4 @@
 - 2023-07-03 18:09 clean up config
 - 2023-07-03 14:33 tweak plotting defaults
 - 2023-07-03 15:36 rename variables for clarity
+- 2023-07-03 12:08 rename variables for clarity
