@@ -824,3 +824,4 @@
 - 2023-06-24 17:35 fix path handling
 - 2023-06-24 16:31 update notes
 - 2023-07-03 18:09 clean up config
+- 2023-07-03 14:33 tweak plotting defaults
