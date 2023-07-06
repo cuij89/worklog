@@ -828,3 +828,4 @@
 - 2023-07-03 15:36 rename variables for clarity
 - 2023-07-03 12:08 rename variables for clarity
 - 2023-07-03 14:38 rename variables for clarity
+- 2023-07-06 13:09 refactor helper functions
