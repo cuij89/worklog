@@ -830,3 +830,4 @@
 - 2023-07-03 14:38 rename variables for clarity
 - 2023-07-06 13:09 refactor helper functions
 - 2023-07-06 18:49 clean up config
+- 2023-07-07 13:28 clean up config
