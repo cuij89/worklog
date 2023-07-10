@@ -832,3 +832,4 @@
 - 2023-07-06 18:49 clean up config
 - 2023-07-07 13:28 clean up config
 - 2023-07-08 12:35 clean up config
+- 2023-07-10 15:10 update notes
