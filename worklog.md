@@ -839,3 +839,4 @@
 - 2023-07-11 15:24 tweak plotting defaults
 - 2023-07-13 18:04 refactor helper functions
 - 2023-07-13 17:16 update dependency list
+- 2023-07-13 13:39 rename variables for clarity
