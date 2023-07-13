@@ -837,3 +837,4 @@
 - 2023-07-10 10:22 clean up config
 - 2023-07-11 10:48 fix path handling
 - 2023-07-11 15:24 tweak plotting defaults
+- 2023-07-13 18:04 refactor helper functions
