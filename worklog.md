@@ -841,3 +841,4 @@
 - 2023-07-13 17:16 update dependency list
 - 2023-07-13 13:39 rename variables for clarity
 - 2023-07-14 16:52 add scratch analysis
+- 2023-07-26 16:03 fix path handling
