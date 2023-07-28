@@ -844,3 +844,4 @@
 - 2023-07-26 16:03 fix path handling
 - 2023-07-26 15:42 add scratch analysis
 - 2023-07-28 18:01 clean up config
+- 2023-07-28 15:08 update dependency list
