@@ -853,3 +853,4 @@
 - 2023-08-04 17:40 clean up config
 - 2023-08-04 18:08 update notes
 - 2023-08-04 10:55 refactor helper functions
+- 2023-08-10 17:04 update dependency list
