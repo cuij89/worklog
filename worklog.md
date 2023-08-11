@@ -858,3 +858,4 @@
 - 2023-08-11 15:11 update notes
 - 2023-08-11 17:31 add scratch analysis
 - 2023-08-11 15:27 tweak plotting defaults
+- 2023-08-11 12:53 fix path handling
