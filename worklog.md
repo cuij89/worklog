@@ -864,3 +864,4 @@
 - 2023-08-14 15:57 fix path handling
 - 2023-08-17 12:44 small doc fix
 - 2023-08-21 16:26 clean up config
+- 2023-08-22 10:53 refactor helper functions
