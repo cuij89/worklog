@@ -867,3 +867,4 @@
 - 2023-08-22 10:53 refactor helper functions
 - 2023-08-23 16:39 update notes
 - 2023-08-23 14:58 refactor helper functions
+- 2023-08-25 15:46 fix path handling
