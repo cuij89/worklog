@@ -868,3 +868,4 @@
 - 2023-08-23 16:39 update notes
 - 2023-08-23 14:58 refactor helper functions
 - 2023-08-25 15:46 fix path handling
+- 2023-08-25 15:14 update dependency list
