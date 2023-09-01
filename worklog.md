@@ -870,3 +870,4 @@
 - 2023-08-25 15:46 fix path handling
 - 2023-08-25 15:14 update dependency list
 - 2023-08-30 11:18 clean up config
+- 2023-09-01 14:07 rename variables for clarity
