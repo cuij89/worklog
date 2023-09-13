@@ -874,3 +874,4 @@
 - 2023-09-01 15:25 tweak plotting defaults
 - 2023-09-05 10:50 clean up config
 - 2023-09-12 14:45 refactor helper functions
+- 2023-09-13 16:00 tweak plotting defaults
