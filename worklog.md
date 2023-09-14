@@ -878,3 +878,4 @@
 - 2023-09-13 17:04 fix path handling
 - 2023-09-14 16:55 rename variables for clarity
 - 2023-09-14 11:55 tweak plotting defaults
+- 2023-09-14 17:35 fix path handling
