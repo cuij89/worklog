@@ -883,3 +883,4 @@
 - 2023-09-14 11:43 fix path handling
 - 2023-09-19 14:57 update notes
 - 2023-09-19 11:20 fix path handling
+- 2023-09-19 17:00 add scratch analysis
