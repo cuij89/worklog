@@ -888,3 +888,4 @@
 - 2023-09-19 11:22 rename variables for clarity
 - 2023-09-21 18:50 drop unused imports
 - 2023-09-21 17:03 tweak plotting defaults
+- 2023-09-26 18:06 refactor helper functions
