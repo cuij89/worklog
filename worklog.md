@@ -893,3 +893,4 @@
 - 2023-09-27 15:35 tweak plotting defaults
 - 2023-09-27 11:42 update notes
 - 2023-09-27 14:17 tweak plotting defaults
+- 2023-09-27 18:40 clean up config
