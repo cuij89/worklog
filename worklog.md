@@ -892,3 +892,4 @@
 - 2023-09-26 17:39 refactor helper functions
 - 2023-09-27 15:35 tweak plotting defaults
 - 2023-09-27 11:42 update notes
+- 2023-09-27 14:17 tweak plotting defaults
