@@ -897,3 +897,4 @@
 - 2023-09-29 13:41 clean up config
 - 2023-09-29 10:02 clean up config
 - 2023-09-29 16:15 small doc fix
+- 2023-09-30 16:40 refactor helper functions
