@@ -899,3 +899,4 @@
 - 2023-09-29 16:15 small doc fix
 - 2023-09-30 16:40 refactor helper functions
 - 2023-10-02 12:45 drop unused imports
+- 2023-10-03 15:33 clean up config
