@@ -902,3 +902,4 @@
 - 2023-10-03 15:33 clean up config
 - 2023-10-04 18:24 clean up config
 - 2023-10-06 17:12 update dependency list
+- 2023-10-12 10:38 fix path handling
