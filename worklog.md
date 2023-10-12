@@ -905,3 +905,4 @@
 - 2023-10-12 10:38 fix path handling
 - 2023-10-12 18:42 drop unused imports
 - 2023-10-12 12:53 rename variables for clarity
+- 2023-10-12 18:42 update notes
