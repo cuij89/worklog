@@ -908,3 +908,4 @@
 - 2023-10-12 18:42 update notes
 - 2023-10-12 16:44 clean up config
 - 2023-10-13 15:40 update notes
+- 2023-10-13 18:38 fix path handling
