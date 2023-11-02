@@ -927,3 +927,4 @@
 - 2023-11-01 12:37 tweak plotting defaults
 - 2023-11-01 11:02 rename variables for clarity
 - 2023-11-01 12:45 fix path handling
+- 2023-11-02 10:52 add scratch analysis
