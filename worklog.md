@@ -930,3 +930,4 @@
 - 2023-11-02 10:52 add scratch analysis
 - 2023-11-05 11:48 clean up config
 - 2023-11-06 16:24 update notes
+- 2023-11-06 17:51 fix path handling
