@@ -933,3 +933,4 @@
 - 2023-11-06 17:51 fix path handling
 - 2023-11-08 10:34 clean up config
 - 2023-11-08 17:34 update notes
+- 2023-11-12 19:02 fix path handling
