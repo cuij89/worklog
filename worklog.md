@@ -937,3 +937,4 @@
 - 2023-11-12 20:40 fix path handling
 - 2023-11-13 11:10 rename variables for clarity
 - 2023-11-13 18:36 update notes
+- 2023-11-13 16:50 tweak plotting defaults
