@@ -935,3 +935,4 @@
 - 2023-11-08 17:34 update notes
 - 2023-11-12 19:02 fix path handling
 - 2023-11-12 20:40 fix path handling
+- 2023-11-13 11:10 rename variables for clarity
