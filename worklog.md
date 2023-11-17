@@ -938,3 +938,4 @@
 - 2023-11-13 11:10 rename variables for clarity
 - 2023-11-13 18:36 update notes
 - 2023-11-13 16:50 tweak plotting defaults
+- 2023-11-17 16:56 clean up config
