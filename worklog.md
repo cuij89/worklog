@@ -944,3 +944,4 @@
 - 2023-11-20 16:54 update dependency list
 - 2023-11-21 18:47 small doc fix
 - 2023-11-21 14:23 update dependency list
+- 2023-11-23 15:53 rename variables for clarity
