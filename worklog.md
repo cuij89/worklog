@@ -951,3 +951,4 @@
 - 2023-12-07 17:08 clean up config
 - 2023-12-08 15:37 small doc fix
 - 2023-12-08 13:14 small doc fix
+- 2023-12-11 15:55 update dependency list
