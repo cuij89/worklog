@@ -957,3 +957,4 @@
 - 2023-12-15 16:11 refactor helper functions
 - 2023-12-15 12:05 refactor helper functions
 - 2023-12-17 11:09 add scratch analysis
+- 2023-12-20 18:24 add scratch analysis
