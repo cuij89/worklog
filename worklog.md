@@ -960,3 +960,4 @@
 - 2023-12-20 18:24 add scratch analysis
 - 2023-12-20 16:02 rename variables for clarity
 - 2023-12-20 15:33 add scratch analysis
+- 2023-12-21 16:43 add scratch analysis
