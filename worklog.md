@@ -962,3 +962,4 @@
 - 2023-12-20 15:33 add scratch analysis
 - 2023-12-21 16:43 add scratch analysis
 - 2023-12-25 11:33 update dependency list
+- 2023-12-25 15:42 update notes
