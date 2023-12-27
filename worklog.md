@@ -966,3 +966,4 @@
 - 2023-12-25 15:22 refactor helper functions
 - 2023-12-26 18:00 add scratch analysis
 - 2023-12-26 17:34 tweak plotting defaults
+- 2023-12-27 13:50 refactor helper functions
