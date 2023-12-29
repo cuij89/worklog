@@ -969,3 +969,4 @@
 - 2023-12-27 13:50 refactor helper functions
 - 2023-12-28 15:51 tweak plotting defaults
 - 2023-12-29 14:04 refactor helper functions
+- 2023-12-29 16:07 rename variables for clarity
