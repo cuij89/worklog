@@ -973,3 +973,4 @@
 - 2024-01-01 14:32 rename variables for clarity
 - 2024-01-01 14:38 refactor helper functions
 - 2024-01-02 11:33 small doc fix
+- 2024-01-03 16:48 tweak plotting defaults
