@@ -980,3 +980,4 @@
 - 2024-01-05 16:48 add scratch analysis
 - 2024-01-11 12:59 refactor helper functions
 - 2024-01-11 17:14 update notes
+- 2024-01-12 18:29 small doc fix
