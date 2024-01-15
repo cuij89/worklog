@@ -983,3 +983,4 @@
 - 2024-01-12 18:29 small doc fix
 - 2024-01-12 14:36 refactor helper functions
 - 2024-01-12 13:51 update dependency list
+- 2024-01-15 17:17 rename variables for clarity
