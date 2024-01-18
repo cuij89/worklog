@@ -988,3 +988,4 @@
 - 2024-01-17 16:11 refactor helper functions
 - 2024-01-18 18:42 fix path handling
 - 2024-01-18 13:06 small doc fix
+- 2024-01-18 15:04 tweak plotting defaults
