@@ -992,3 +992,4 @@
 - 2024-01-18 12:35 tweak plotting defaults
 - 2024-01-19 12:46 small doc fix
 - 2024-01-26 10:19 small doc fix
+- 2024-01-26 10:45 clean up config
