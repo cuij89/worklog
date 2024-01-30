@@ -993,3 +993,4 @@
 - 2024-01-19 12:46 small doc fix
 - 2024-01-26 10:19 small doc fix
 - 2024-01-26 10:45 clean up config
+- 2024-01-30 17:46 update dependency list
