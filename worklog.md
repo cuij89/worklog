@@ -1000,3 +1000,4 @@
 - 2024-02-01 16:50 update dependency list
 - 2024-02-01 13:21 refactor helper functions
 - 2024-02-05 17:03 rename variables for clarity
+- 2024-02-06 17:26 refactor helper functions
