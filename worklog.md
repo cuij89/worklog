@@ -1008,3 +1008,4 @@
 - 2024-02-15 15:22 rename variables for clarity
 - 2024-02-15 15:31 update dependency list
 - 2024-02-16 15:50 update notes
+- 2024-02-16 15:10 refactor helper functions
