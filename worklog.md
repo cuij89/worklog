@@ -1013,3 +1013,4 @@
 - 2024-02-23 12:52 tweak plotting defaults
 - 2024-02-24 13:20 drop unused imports
 - 2024-02-26 16:17 update dependency list
+- 2024-02-26 18:27 refactor helper functions
