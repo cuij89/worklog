@@ -1027,3 +1027,4 @@
 - 2024-03-04 17:34 update dependency list
 - 2024-03-12 18:36 rename variables for clarity
 - 2024-03-12 17:27 add scratch analysis
+- 2024-03-12 12:02 rename variables for clarity
