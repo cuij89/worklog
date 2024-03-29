@@ -1037,3 +1037,4 @@
 - 2024-03-19 13:12 rename variables for clarity
 - 2024-03-26 16:32 add scratch analysis
 - 2024-03-29 11:48 drop unused imports
+- 2024-03-29 10:59 tweak plotting defaults
