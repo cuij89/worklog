@@ -1040,3 +1040,4 @@
 - 2024-03-29 10:59 tweak plotting defaults
 - 2024-03-29 16:18 fix path handling
 - 2024-03-31 11:05 refactor helper functions
+- 2024-03-31 17:39 clean up config
