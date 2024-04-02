@@ -1042,3 +1042,4 @@
 - 2024-03-31 11:05 refactor helper functions
 - 2024-03-31 17:39 clean up config
 - 2024-04-01 18:13 fix path handling
+- 2024-04-02 17:27 fix path handling
