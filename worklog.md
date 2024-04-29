@@ -1057,3 +1057,4 @@
 - 2024-04-18 10:16 clean up config
 - 2024-04-18 12:13 update dependency list
 - 2024-04-22 13:42 rename variables for clarity
+- 2024-04-29 18:53 fix path handling
