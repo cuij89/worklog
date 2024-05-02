@@ -1064,3 +1064,4 @@
 - 2024-04-30 12:30 drop unused imports
 - 2024-05-02 17:35 rename variables for clarity
 - 2024-05-02 14:44 small doc fix
+- 2024-05-02 17:42 refactor helper functions
