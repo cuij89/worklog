@@ -1074,3 +1074,4 @@
 - 2024-05-10 14:14 tweak plotting defaults
 - 2024-05-10 15:36 rename variables for clarity
 - 2024-05-10 10:46 tweak plotting defaults
+- 2024-05-11 21:13 add scratch analysis
