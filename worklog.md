@@ -1076,3 +1076,4 @@
 - 2024-05-10 10:46 tweak plotting defaults
 - 2024-05-11 21:13 add scratch analysis
 - 2024-05-16 12:46 fix path handling
+- 2024-05-16 15:21 refactor helper functions
