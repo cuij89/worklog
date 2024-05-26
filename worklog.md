@@ -1081,3 +1081,4 @@
 - 2024-05-23 15:26 rename variables for clarity
 - 2024-05-23 14:57 refactor helper functions
 - 2024-05-26 12:12 update notes
+- 2024-05-26 11:36 small doc fix
