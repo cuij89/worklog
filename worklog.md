@@ -1080,3 +1080,4 @@
 - 2024-05-23 10:07 add scratch analysis
 - 2024-05-23 15:26 rename variables for clarity
 - 2024-05-23 14:57 refactor helper functions
+- 2024-05-26 12:12 update notes
