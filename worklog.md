@@ -1085,3 +1085,4 @@
 - 2024-05-28 14:30 drop unused imports
 - 2024-05-28 16:17 refactor helper functions
 - 2024-05-30 10:02 tweak plotting defaults
+- 2024-06-03 14:08 add scratch analysis
