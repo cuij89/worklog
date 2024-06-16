@@ -1089,3 +1089,4 @@
 - 2024-06-03 14:53 tweak plotting defaults
 - 2024-06-13 10:27 clean up config
 - 2024-06-14 15:06 small doc fix
+- 2024-06-16 12:33 fix path handling
