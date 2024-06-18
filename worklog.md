@@ -1091,3 +1091,4 @@
 - 2024-06-14 15:06 small doc fix
 - 2024-06-16 12:33 fix path handling
 - 2024-06-17 12:03 small doc fix
+- 2024-06-18 14:32 clean up config
