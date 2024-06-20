@@ -1094,3 +1094,4 @@
 - 2024-06-18 14:32 clean up config
 - 2024-06-18 17:26 update dependency list
 - 2024-06-19 18:29 fix path handling
+- 2024-06-20 15:44 update dependency list
