@@ -1097,3 +1097,4 @@
 - 2024-06-20 15:44 update dependency list
 - 2024-06-20 17:03 tweak plotting defaults
 - 2024-06-20 11:36 update dependency list
+- 2024-06-21 11:58 tweak plotting defaults
