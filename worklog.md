@@ -1101,3 +1101,4 @@
 - 2024-06-21 16:37 drop unused imports
 - 2024-06-25 11:31 fix path handling
 - 2024-06-25 13:29 refactor helper functions
+- 2024-06-25 17:09 update dependency list
