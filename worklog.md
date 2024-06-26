@@ -1104,3 +1104,4 @@
 - 2024-06-25 17:09 update dependency list
 - 2024-06-25 17:42 update notes
 - 2024-06-25 14:04 tweak plotting defaults
+- 2024-06-26 10:57 drop unused imports
