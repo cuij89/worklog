@@ -1112,3 +1112,4 @@
 - 2024-06-27 11:20 update notes
 - 2024-07-01 15:57 fix path handling
 - 2024-07-01 15:41 rename variables for clarity
+- 2024-07-01 12:00 tweak plotting defaults
