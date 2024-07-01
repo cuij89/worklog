@@ -1110,3 +1110,4 @@
 - 2024-06-26 10:25 small doc fix
 - 2024-06-26 11:42 fix path handling
 - 2024-06-27 11:20 update notes
+- 2024-07-01 15:57 fix path handling
