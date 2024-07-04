@@ -1115,3 +1115,4 @@
 - 2024-07-01 12:00 tweak plotting defaults
 - 2024-07-02 12:46 rename variables for clarity
 - 2024-07-04 16:55 rename variables for clarity
+- 2024-07-04 15:38 small doc fix
