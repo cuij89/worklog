@@ -1118,3 +1118,4 @@
 - 2024-07-04 15:38 small doc fix
 - 2024-07-05 16:27 small doc fix
 - 2024-07-05 12:56 update dependency list
+- 2024-07-05 12:39 clean up config
