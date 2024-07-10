@@ -1123,3 +1123,4 @@
 - 2024-07-05 11:59 tweak plotting defaults
 - 2024-07-09 18:21 clean up config
 - 2024-07-09 16:52 small doc fix
+- 2024-07-10 10:36 update notes
