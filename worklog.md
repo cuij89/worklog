@@ -1125,3 +1125,4 @@
 - 2024-07-09 16:52 small doc fix
 - 2024-07-10 10:36 update notes
 - 2024-07-10 10:46 update notes
+- 2024-07-11 14:37 add scratch analysis
