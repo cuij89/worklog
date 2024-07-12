@@ -1128,3 +1128,4 @@
 - 2024-07-11 14:37 add scratch analysis
 - 2024-07-11 11:30 drop unused imports
 - 2024-07-11 15:27 rename variables for clarity
+- 2024-07-12 16:14 refactor helper functions
