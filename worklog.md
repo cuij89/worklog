@@ -1132,3 +1132,4 @@
 - 2024-07-12 17:49 fix path handling
 - 2024-07-13 16:47 drop unused imports
 - 2024-07-13 20:47 update dependency list
+- 2024-07-15 15:41 rename variables for clarity
