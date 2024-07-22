@@ -1138,3 +1138,4 @@
 - 2024-07-17 17:56 tweak plotting defaults
 - 2024-07-18 16:33 drop unused imports
 - 2024-07-18 18:39 fix path handling
+- 2024-07-22 15:14 add scratch analysis
