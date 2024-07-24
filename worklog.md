@@ -1140,3 +1140,4 @@
 - 2024-07-18 18:39 fix path handling
 - 2024-07-22 15:14 add scratch analysis
 - 2024-07-24 11:15 tweak plotting defaults
+- 2024-07-24 12:58 update dependency list
