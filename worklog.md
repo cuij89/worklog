@@ -1150,3 +1150,4 @@
 - 2024-08-03 14:18 update dependency list
 - 2024-08-07 12:38 add scratch analysis
 - 2024-08-14 10:02 small doc fix
+- 2024-08-14 17:18 tweak plotting defaults
