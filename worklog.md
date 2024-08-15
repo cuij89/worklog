@@ -1153,3 +1153,4 @@
 - 2024-08-14 17:18 tweak plotting defaults
 - 2024-08-14 10:11 drop unused imports
 - 2024-08-14 11:43 drop unused imports
+- 2024-08-15 11:07 rename variables for clarity
