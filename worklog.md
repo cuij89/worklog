@@ -1161,3 +1161,4 @@
 - 2024-08-22 10:15 refactor helper functions
 - 2024-08-22 18:00 fix path handling
 - 2024-08-22 11:29 drop unused imports
+- 2024-08-22 16:13 clean up config
