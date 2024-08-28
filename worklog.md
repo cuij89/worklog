@@ -1166,3 +1166,4 @@
 - 2024-08-24 14:05 clean up config
 - 2024-08-28 16:46 clean up config
 - 2024-08-28 13:25 clean up config
+- 2024-08-28 18:28 fix path handling
