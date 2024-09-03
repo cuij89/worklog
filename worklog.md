@@ -1171,3 +1171,4 @@
 - 2024-08-28 11:04 drop unused imports
 - 2024-08-30 11:03 update notes
 - 2024-09-03 16:40 small doc fix
+- 2024-09-03 12:16 tweak plotting defaults
