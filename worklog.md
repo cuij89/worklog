@@ -1176,3 +1176,4 @@
 - 2024-09-03 13:32 tweak plotting defaults
 - 2024-09-06 14:07 update notes
 - 2024-09-06 17:54 fix path handling
+- 2024-09-06 16:35 small doc fix
