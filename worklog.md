@@ -1182,3 +1182,4 @@
 - 2024-09-11 16:03 fix path handling
 - 2024-09-11 10:24 tweak plotting defaults
 - 2024-09-12 16:23 clean up config
+- 2024-09-12 13:22 clean up config
