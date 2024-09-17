@@ -1189,3 +1189,4 @@
 - 2024-09-16 13:56 refactor helper functions
 - 2024-09-17 16:07 tweak plotting defaults
 - 2024-09-17 16:46 tweak plotting defaults
+- 2024-09-17 17:13 refactor helper functions
