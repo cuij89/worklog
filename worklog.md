@@ -1191,3 +1191,4 @@
 - 2024-09-17 16:46 tweak plotting defaults
 - 2024-09-17 17:13 refactor helper functions
 - 2024-09-18 11:05 update notes
+- 2024-09-19 13:27 rename variables for clarity
