@@ -1193,3 +1193,4 @@
 - 2024-09-18 11:05 update notes
 - 2024-09-19 13:27 rename variables for clarity
 - 2024-09-19 17:00 clean up config
+- 2024-09-20 11:59 update notes
