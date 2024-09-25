@@ -1199,3 +1199,4 @@
 - 2024-09-25 17:43 drop unused imports
 - 2024-09-25 13:29 refactor helper functions
 - 2024-09-25 12:23 update dependency list
+- 2024-09-25 13:36 clean up config
