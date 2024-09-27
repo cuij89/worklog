@@ -1202,3 +1202,4 @@
 - 2024-09-25 13:36 clean up config
 - 2024-09-27 13:22 fix path handling
 - 2024-09-27 11:35 fix path handling
+- 2024-09-27 12:49 rename variables for clarity
