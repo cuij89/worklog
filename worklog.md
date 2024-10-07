@@ -1204,3 +1204,4 @@
 - 2024-09-27 11:35 fix path handling
 - 2024-09-27 12:49 rename variables for clarity
 - 2024-10-06 17:09 refactor helper functions
+- 2024-10-07 10:17 tweak plotting defaults
