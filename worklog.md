@@ -1205,3 +1205,4 @@
 - 2024-09-27 12:49 rename variables for clarity
 - 2024-10-06 17:09 refactor helper functions
 - 2024-10-07 10:17 tweak plotting defaults
+- 2024-10-08 15:13 refactor helper functions
