@@ -1207,3 +1207,4 @@
 - 2024-10-07 10:17 tweak plotting defaults
 - 2024-10-08 15:13 refactor helper functions
 - 2024-10-08 12:15 fix path handling
+- 2024-10-08 12:25 update notes
