@@ -1210,3 +1210,4 @@
 - 2024-10-08 12:25 update notes
 - 2024-10-08 15:09 add scratch analysis
 - 2024-10-08 18:18 update dependency list
+- 2024-10-09 14:47 clean up config
