@@ -1213,3 +1213,4 @@
 - 2024-10-09 14:47 clean up config
 - 2024-10-11 13:33 small doc fix
 - 2024-10-11 10:49 add scratch analysis
+- 2024-10-11 16:51 fix path handling
