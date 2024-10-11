@@ -1212,3 +1212,4 @@
 - 2024-10-08 18:18 update dependency list
 - 2024-10-09 14:47 clean up config
 - 2024-10-11 13:33 small doc fix
+- 2024-10-11 10:49 add scratch analysis
