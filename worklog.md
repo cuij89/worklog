@@ -1217,3 +1217,4 @@
 - 2024-10-11 12:51 fix path handling
 - 2024-10-16 12:35 small doc fix
 - 2024-10-16 11:06 clean up config
+- 2024-10-16 16:09 rename variables for clarity
