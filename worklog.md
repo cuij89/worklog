@@ -1222,3 +1222,4 @@
 - 2024-10-16 15:39 drop unused imports
 - 2024-10-17 17:56 fix path handling
 - 2024-10-17 13:01 refactor helper functions
+- 2024-10-17 14:14 rename variables for clarity
