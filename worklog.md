@@ -1234,3 +1234,4 @@
 - 2024-11-05 17:14 rename variables for clarity
 - 2024-11-06 14:50 small doc fix
 - 2024-11-06 12:40 drop unused imports
+- 2024-11-06 15:00 update notes
