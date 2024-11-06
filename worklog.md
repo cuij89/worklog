@@ -1232,3 +1232,4 @@
 - 2024-11-05 17:42 clean up config
 - 2024-11-05 14:56 add scratch analysis
 - 2024-11-05 17:14 rename variables for clarity
+- 2024-11-06 14:50 small doc fix
