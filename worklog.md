@@ -1238,3 +1238,4 @@
 - 2024-11-06 10:51 update notes
 - 2024-11-06 16:53 clean up config
 - 2024-11-07 16:48 fix path handling
+- 2024-11-07 16:05 clean up config
