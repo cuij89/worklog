@@ -1240,3 +1240,4 @@
 - 2024-11-07 16:48 fix path handling
 - 2024-11-07 16:05 clean up config
 - 2024-11-12 12:07 refactor helper functions
+- 2024-11-12 10:17 small doc fix
