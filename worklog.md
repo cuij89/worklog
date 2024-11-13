@@ -1243,3 +1243,4 @@
 - 2024-11-12 10:17 small doc fix
 - 2024-11-13 17:18 add scratch analysis
 - 2024-11-13 11:57 tweak plotting defaults
+- 2024-11-13 11:38 small doc fix
