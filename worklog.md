@@ -1245,3 +1245,4 @@
 - 2024-11-13 11:57 tweak plotting defaults
 - 2024-11-13 11:38 small doc fix
 - 2024-11-13 18:54 rename variables for clarity
+- 2024-11-13 12:30 tweak plotting defaults
