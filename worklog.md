@@ -1242,3 +1242,4 @@
 - 2024-11-12 12:07 refactor helper functions
 - 2024-11-12 10:17 small doc fix
 - 2024-11-13 17:18 add scratch analysis
+- 2024-11-13 11:57 tweak plotting defaults
