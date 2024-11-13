@@ -1241,3 +1241,4 @@
 - 2024-11-07 16:05 clean up config
 - 2024-11-12 12:07 refactor helper functions
 - 2024-11-12 10:17 small doc fix
+- 2024-11-13 17:18 add scratch analysis
