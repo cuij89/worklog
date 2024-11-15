@@ -1248,3 +1248,4 @@
 - 2024-11-13 12:30 tweak plotting defaults
 - 2024-11-15 17:04 fix path handling
 - 2024-11-15 17:31 rename variables for clarity
+- 2024-11-15 18:44 tweak plotting defaults
