@@ -1254,3 +1254,4 @@
 - 2024-11-18 14:58 clean up config
 - 2024-11-20 18:30 add scratch analysis
 - 2024-11-25 17:11 update notes
+- 2024-11-25 11:08 small doc fix
