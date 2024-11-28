@@ -1259,3 +1259,4 @@
 - 2024-11-26 15:51 update notes
 - 2024-11-26 14:41 update notes
 - 2024-11-28 17:53 update dependency list
+- 2024-11-28 18:40 clean up config
