@@ -1262,3 +1262,4 @@
 - 2024-11-28 18:40 clean up config
 - 2024-12-03 10:31 tweak plotting defaults
 - 2024-12-04 10:03 fix path handling
+- 2024-12-04 16:59 refactor helper functions
