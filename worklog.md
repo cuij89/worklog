@@ -1261,3 +1261,4 @@
 - 2024-11-28 17:53 update dependency list
 - 2024-11-28 18:40 clean up config
 - 2024-12-03 10:31 tweak plotting defaults
+- 2024-12-04 10:03 fix path handling
