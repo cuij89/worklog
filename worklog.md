@@ -1268,3 +1268,4 @@
 - 2024-12-10 17:17 refactor helper functions
 - 2024-12-10 13:02 clean up config
 - 2024-12-10 17:03 update notes
+- 2024-12-10 11:32 refactor helper functions
