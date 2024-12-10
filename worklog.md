@@ -1266,3 +1266,4 @@
 - 2024-12-08 13:20 small doc fix
 - 2024-12-10 10:32 refactor helper functions
 - 2024-12-10 17:17 refactor helper functions
+- 2024-12-10 13:02 clean up config
