@@ -1273,3 +1273,4 @@
 - 2024-12-11 16:28 update notes
 - 2024-12-13 17:38 fix path handling
 - 2024-12-13 12:19 tweak plotting defaults
+- 2024-12-14 12:53 small doc fix
