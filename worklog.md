@@ -1276,3 +1276,4 @@
 - 2024-12-14 12:53 small doc fix
 - 2024-12-17 18:17 update dependency list
 - 2024-12-17 14:20 fix path handling
+- 2024-12-18 11:21 tweak plotting defaults
