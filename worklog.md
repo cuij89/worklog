@@ -1280,3 +1280,4 @@
 - 2024-12-19 16:07 fix path handling
 - 2024-12-19 17:22 update notes
 - 2024-12-20 12:09 fix path handling
+- 2024-12-26 11:44 update dependency list
