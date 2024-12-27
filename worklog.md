@@ -1282,3 +1282,4 @@
 - 2024-12-20 12:09 fix path handling
 - 2024-12-26 11:44 update dependency list
 - 2024-12-27 18:04 small doc fix
+- 2024-12-27 11:56 refactor helper functions
