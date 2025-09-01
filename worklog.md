@@ -1,1 +1,2 @@
 - 2025-09-01 13:56 tweak plotting defaults
+- 2025-09-01 14:12 tweak plotting defaults
