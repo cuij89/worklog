@@ -3,3 +3,4 @@
 - 2025-09-02 11:34 rename variables for clarity
 - 2025-09-03 10:47 fix path handling
 - 2025-09-03 12:08 refactor helper functions
+- 2025-09-03 17:29 tweak plotting defaults
