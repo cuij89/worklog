@@ -6,3 +6,4 @@
 - 2025-09-03 17:29 tweak plotting defaults
 - 2025-09-03 17:45 clean up config
 - 2025-09-03 16:42 small doc fix
+- 2025-09-05 18:08 drop unused imports
