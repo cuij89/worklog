@@ -11,3 +11,4 @@
 - 2025-09-05 10:40 tweak plotting defaults
 - 2025-09-08 10:34 drop unused imports
 - 2025-09-08 15:59 small doc fix
+- 2025-09-08 12:07 update dependency list
