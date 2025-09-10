@@ -13,3 +13,4 @@
 - 2025-09-08 15:59 small doc fix
 - 2025-09-08 12:07 update dependency list
 - 2025-09-10 11:55 add scratch analysis
+- 2025-09-10 10:17 update dependency list
