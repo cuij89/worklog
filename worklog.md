@@ -20,3 +20,4 @@
 - 2025-09-11 16:16 add scratch analysis
 - 2025-09-11 15:13 small doc fix
 - 2025-09-17 18:55 small doc fix
+- 2025-09-18 13:52 rename variables for clarity
