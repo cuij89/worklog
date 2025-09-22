@@ -23,3 +23,4 @@
 - 2025-09-18 13:52 rename variables for clarity
 - 2025-09-18 15:50 small doc fix
 - 2025-09-22 18:48 drop unused imports
+- 2025-09-22 18:35 update dependency list
