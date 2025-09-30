@@ -37,3 +37,4 @@
 - 2025-09-30 12:16 tweak plotting defaults
 - 2025-09-30 14:21 refactor helper functions
 - 2025-09-30 12:54 fix path handling
+- 2025-09-30 16:30 tweak plotting defaults
