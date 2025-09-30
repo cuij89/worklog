@@ -34,3 +34,4 @@
 - 2025-09-26 14:59 fix path handling
 - 2025-09-29 11:10 drop unused imports
 - 2025-09-29 11:32 rename variables for clarity
+- 2025-09-30 12:16 tweak plotting defaults
