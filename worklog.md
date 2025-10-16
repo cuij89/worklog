@@ -46,3 +46,4 @@
 - 2025-10-02 17:48 tweak plotting defaults
 - 2025-10-07 18:24 clean up config
 - 2025-10-07 16:31 small doc fix
+- 2025-10-16 16:22 rename variables for clarity
