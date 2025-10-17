@@ -49,3 +49,4 @@
 - 2025-10-16 16:22 rename variables for clarity
 - 2025-10-16 15:54 drop unused imports
 - 2025-10-16 16:47 refactor helper functions
+- 2025-10-17 11:54 clean up config
