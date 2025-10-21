@@ -54,3 +54,4 @@
 - 2025-10-20 17:15 update notes
 - 2025-10-20 18:59 small doc fix
 - 2025-10-21 13:52 add scratch analysis
+- 2025-10-21 18:20 refactor helper functions
