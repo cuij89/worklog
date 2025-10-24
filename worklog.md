@@ -62,3 +62,4 @@
 - 2025-10-22 18:49 update dependency list
 - 2025-10-22 16:31 update dependency list
 - 2025-10-24 16:25 update notes
+- 2025-10-24 12:37 tweak plotting defaults
