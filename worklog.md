@@ -66,3 +66,4 @@
 - 2025-10-28 10:57 tweak plotting defaults
 - 2025-10-30 14:53 clean up config
 - 2025-10-30 11:27 rename variables for clarity
+- 2025-10-31 15:22 rename variables for clarity
