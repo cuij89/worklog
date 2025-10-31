@@ -68,3 +68,4 @@
 - 2025-10-30 11:27 rename variables for clarity
 - 2025-10-31 15:22 rename variables for clarity
 - 2025-10-31 18:54 small doc fix
+- 2025-10-31 10:22 clean up config
