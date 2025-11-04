@@ -75,3 +75,4 @@
 - 2025-11-03 11:37 rename variables for clarity
 - 2025-11-04 14:22 drop unused imports
 - 2025-11-04 10:03 rename variables for clarity
+- 2025-11-04 16:22 refactor helper functions
