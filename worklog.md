@@ -78,3 +78,4 @@
 - 2025-11-04 16:22 refactor helper functions
 - 2025-11-12 17:27 drop unused imports
 - 2025-11-12 16:01 rename variables for clarity
+- 2025-11-14 10:54 tweak plotting defaults
