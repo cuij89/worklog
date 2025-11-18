@@ -80,3 +80,4 @@
 - 2025-11-12 16:01 rename variables for clarity
 - 2025-11-14 10:54 tweak plotting defaults
 - 2025-11-18 15:58 update notes
+- 2025-11-18 15:54 add scratch analysis
