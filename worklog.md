@@ -84,3 +84,4 @@
 - 2025-11-18 16:26 fix path handling
 - 2025-11-20 15:39 update dependency list
 - 2025-11-20 15:00 update notes
+- 2025-11-21 10:51 rename variables for clarity
