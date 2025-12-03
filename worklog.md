@@ -92,3 +92,4 @@
 - 2025-11-28 15:53 refactor helper functions
 - 2025-11-28 10:42 add scratch analysis
 - 2025-12-01 15:09 refactor helper functions
+- 2025-12-03 18:14 rename variables for clarity
