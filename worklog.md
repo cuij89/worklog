@@ -96,3 +96,4 @@
 - 2025-12-04 17:20 fix path handling
 - 2025-12-04 12:49 add scratch analysis
 - 2025-12-08 15:02 rename variables for clarity
+- 2025-12-08 14:53 refactor helper functions
