@@ -102,3 +102,4 @@
 - 2025-12-10 15:28 add scratch analysis
 - 2025-12-11 13:37 refactor helper functions
 - 2025-12-11 15:40 small doc fix
+- 2025-12-12 16:05 rename variables for clarity
