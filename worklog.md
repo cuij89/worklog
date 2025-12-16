@@ -104,3 +104,4 @@
 - 2025-12-11 15:40 small doc fix
 - 2025-12-12 16:05 rename variables for clarity
 - 2025-12-12 11:14 tweak plotting defaults
+- 2025-12-16 10:21 fix path handling
