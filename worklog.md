@@ -109,3 +109,4 @@
 - 2025-12-18 17:54 update notes
 - 2025-12-19 11:37 small doc fix
 - 2025-12-19 10:09 tweak plotting defaults
+- 2025-12-19 10:14 rename variables for clarity
