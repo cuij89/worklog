@@ -108,3 +108,4 @@
 - 2025-12-17 11:16 refactor helper functions
 - 2025-12-18 17:54 update notes
 - 2025-12-19 11:37 small doc fix
+- 2025-12-19 10:09 tweak plotting defaults
