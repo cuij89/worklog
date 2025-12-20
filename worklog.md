@@ -348,3 +348,4 @@
 - 2025-08-30 19:55 refactor helper functions
 - 2025-09-20 17:24 small doc fix
 - 2025-09-28 14:42 rename variables for clarity
+- 2025-12-20 17:51 fix path handling
