@@ -112,3 +112,4 @@
 - 2025-12-19 10:14 rename variables for clarity
 - 2025-12-22 15:46 add scratch analysis
 - 2025-12-25 11:15 rename variables for clarity
+- 2025-12-30 15:54 fix path handling
