@@ -117,3 +117,4 @@
 - 2025-12-30 18:01 tweak plotting defaults
 - 2026-01-02 13:58 clean up config
 - 2026-01-05 18:57 fix path handling
+- 2026-01-05 11:50 clean up config
