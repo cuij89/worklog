@@ -119,3 +119,4 @@
 - 2026-01-05 18:57 fix path handling
 - 2026-01-05 11:50 clean up config
 - 2026-01-05 14:16 drop unused imports
+- 2026-01-06 18:31 update notes
