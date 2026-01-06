@@ -121,3 +121,4 @@
 - 2026-01-05 14:16 drop unused imports
 - 2026-01-06 18:31 update notes
 - 2026-01-06 16:00 small doc fix
+- 2026-01-06 10:49 clean up config
