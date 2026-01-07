@@ -123,3 +123,4 @@
 - 2026-01-06 16:00 small doc fix
 - 2026-01-06 10:49 clean up config
 - 2026-01-06 18:31 rename variables for clarity
+- 2026-01-07 13:41 fix path handling
