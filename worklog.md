@@ -128,3 +128,4 @@
 - 2026-01-08 10:08 update dependency list
 - 2026-01-08 16:12 fix path handling
 - 2026-01-08 15:40 clean up config
+- 2026-01-08 16:12 rename variables for clarity
