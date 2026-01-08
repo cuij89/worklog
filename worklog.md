@@ -126,3 +126,4 @@
 - 2026-01-07 13:41 fix path handling
 - 2026-01-08 15:26 update notes
 - 2026-01-08 10:08 update dependency list
+- 2026-01-08 16:12 fix path handling
