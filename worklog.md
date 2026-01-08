@@ -125,3 +125,4 @@
 - 2026-01-06 18:31 rename variables for clarity
 - 2026-01-07 13:41 fix path handling
 - 2026-01-08 15:26 update notes
+- 2026-01-08 10:08 update dependency list
