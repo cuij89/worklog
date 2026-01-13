@@ -137,3 +137,4 @@
 - 2026-01-13 18:51 update dependency list
 - 2026-01-13 16:06 add scratch analysis
 - 2026-01-13 15:12 tweak plotting defaults
+- 2026-01-13 18:17 rename variables for clarity
