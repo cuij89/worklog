@@ -139,3 +139,4 @@
 - 2026-01-13 15:12 tweak plotting defaults
 - 2026-01-13 18:17 rename variables for clarity
 - 2026-01-15 11:12 clean up config
+- 2026-01-16 10:53 add scratch analysis
