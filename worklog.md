@@ -141,3 +141,4 @@
 - 2026-01-15 11:12 clean up config
 - 2026-01-16 10:53 add scratch analysis
 - 2026-01-16 17:36 clean up config
+- 2026-01-20 12:36 small doc fix
