@@ -148,3 +148,4 @@
 - 2026-01-23 11:11 clean up config
 - 2026-01-26 13:23 update dependency list
 - 2026-01-26 11:59 update notes
+- 2026-01-26 17:47 rename variables for clarity
