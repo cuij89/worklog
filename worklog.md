@@ -151,3 +151,4 @@
 - 2026-01-26 17:47 rename variables for clarity
 - 2026-01-26 10:12 small doc fix
 - 2026-01-28 15:53 tweak plotting defaults
+- 2026-02-06 11:39 small doc fix
