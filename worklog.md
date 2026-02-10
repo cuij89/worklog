@@ -156,3 +156,4 @@
 - 2026-02-06 18:20 refactor helper functions
 - 2026-02-06 14:33 add scratch analysis
 - 2026-02-09 18:09 add scratch analysis
+- 2026-02-10 12:41 tweak plotting defaults
