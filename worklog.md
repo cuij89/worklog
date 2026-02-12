@@ -158,3 +158,4 @@
 - 2026-02-09 18:09 add scratch analysis
 - 2026-02-10 12:41 tweak plotting defaults
 - 2026-02-12 14:36 clean up config
+- 2026-02-12 15:30 update notes
