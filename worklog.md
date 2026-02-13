@@ -160,3 +160,4 @@
 - 2026-02-12 14:36 clean up config
 - 2026-02-12 15:30 update notes
 - 2026-02-13 10:02 clean up config
+- 2026-02-13 10:47 refactor helper functions
