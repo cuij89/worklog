@@ -164,3 +164,4 @@
 - 2026-02-17 11:40 fix path handling
 - 2026-02-17 11:11 update notes
 - 2026-02-17 14:53 update dependency list
+- 2026-02-17 12:57 add scratch analysis
