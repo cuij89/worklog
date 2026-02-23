@@ -169,3 +169,4 @@
 - 2026-02-18 16:01 update notes
 - 2026-02-18 11:29 update dependency list
 - 2026-02-20 16:02 tweak plotting defaults
+- 2026-02-23 14:20 small doc fix
