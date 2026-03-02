@@ -175,3 +175,4 @@
 - 2026-02-24 11:57 drop unused imports
 - 2026-02-27 15:36 refactor helper functions
 - 2026-03-02 16:33 refactor helper functions
+- 2026-03-02 10:28 update dependency list
