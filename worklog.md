@@ -182,3 +182,4 @@
 - 2026-03-03 13:33 drop unused imports
 - 2026-03-04 15:13 update dependency list
 - 2026-03-04 18:54 tweak plotting defaults
+- 2026-03-04 13:34 update notes
