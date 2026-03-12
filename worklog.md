@@ -184,3 +184,4 @@
 - 2026-03-04 18:54 tweak plotting defaults
 - 2026-03-04 13:34 update notes
 - 2026-03-12 12:52 clean up config
+- 2026-03-12 15:42 refactor helper functions
