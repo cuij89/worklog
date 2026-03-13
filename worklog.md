@@ -187,3 +187,4 @@
 - 2026-03-12 15:42 refactor helper functions
 - 2026-03-13 13:01 refactor helper functions
 - 2026-03-13 11:16 fix path handling
+- 2026-03-13 13:51 update notes
