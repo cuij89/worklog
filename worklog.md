@@ -191,3 +191,4 @@
 - 2026-03-19 15:07 refactor helper functions
 - 2026-03-19 12:20 drop unused imports
 - 2026-03-20 13:09 tweak plotting defaults
+- 2026-03-20 18:15 rename variables for clarity
