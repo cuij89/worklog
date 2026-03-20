@@ -193,3 +193,4 @@
 - 2026-03-20 13:09 tweak plotting defaults
 - 2026-03-20 18:15 rename variables for clarity
 - 2026-03-20 11:51 update dependency list
+- 2026-03-20 10:31 rename variables for clarity
