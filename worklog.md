@@ -199,3 +199,4 @@
 - 2026-03-25 14:07 update dependency list
 - 2026-03-25 16:04 clean up config
 - 2026-03-25 11:32 add scratch analysis
+- 2026-03-25 17:35 small doc fix
