@@ -197,3 +197,4 @@
 - 2026-03-24 11:54 update notes
 - 2026-03-25 10:36 add scratch analysis
 - 2026-03-25 14:07 update dependency list
+- 2026-03-25 16:04 clean up config
