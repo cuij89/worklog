@@ -195,3 +195,4 @@
 - 2026-03-20 11:51 update dependency list
 - 2026-03-20 10:31 rename variables for clarity
 - 2026-03-24 11:54 update notes
+- 2026-03-25 10:36 add scratch analysis
