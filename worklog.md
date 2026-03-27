@@ -205,3 +205,4 @@
 - 2026-03-26 12:07 rename variables for clarity
 - 2026-03-26 17:08 update dependency list
 - 2026-03-26 11:50 refactor helper functions
+- 2026-03-27 14:06 refactor helper functions
