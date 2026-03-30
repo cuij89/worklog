@@ -206,3 +206,4 @@
 - 2026-03-26 17:08 update dependency list
 - 2026-03-26 11:50 refactor helper functions
 - 2026-03-27 14:06 refactor helper functions
+- 2026-03-30 12:32 tweak plotting defaults
