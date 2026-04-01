@@ -208,3 +208,4 @@
 - 2026-03-27 14:06 refactor helper functions
 - 2026-03-30 12:32 tweak plotting defaults
 - 2026-03-30 16:12 refactor helper functions
+- 2026-04-01 15:23 rename variables for clarity
