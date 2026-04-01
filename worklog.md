@@ -211,3 +211,4 @@
 - 2026-04-01 15:23 rename variables for clarity
 - 2026-04-01 14:55 small doc fix
 - 2026-04-01 14:56 update notes
+- 2026-04-01 17:39 add scratch analysis
