@@ -216,3 +216,4 @@
 - 2026-04-02 12:45 tweak plotting defaults
 - 2026-04-03 13:15 update notes
 - 2026-04-06 12:31 rename variables for clarity
+- 2026-04-06 17:56 update notes
