@@ -219,3 +219,4 @@
 - 2026-04-06 17:56 update notes
 - 2026-04-07 15:57 rename variables for clarity
 - 2026-04-07 13:57 rename variables for clarity
+- 2026-04-09 13:29 fix path handling
