@@ -221,3 +221,4 @@
 - 2026-04-07 13:57 rename variables for clarity
 - 2026-04-09 13:29 fix path handling
 - 2026-04-09 18:30 update dependency list
+- 2026-04-10 13:39 drop unused imports
