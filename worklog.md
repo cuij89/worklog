@@ -228,3 +228,4 @@
 - 2026-04-13 17:20 rename variables for clarity
 - 2026-04-13 12:39 add scratch analysis
 - 2026-04-14 13:46 tweak plotting defaults
+- 2026-04-16 15:40 update notes
