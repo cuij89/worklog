@@ -233,3 +233,4 @@
 - 2026-04-17 15:49 fix path handling
 - 2026-04-20 10:46 add scratch analysis
 - 2026-04-20 14:35 clean up config
+- 2026-04-21 16:10 rename variables for clarity
