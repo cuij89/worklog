@@ -238,3 +238,4 @@
 - 2026-04-24 18:57 drop unused imports
 - 2026-04-28 14:35 small doc fix
 - 2026-04-28 16:22 drop unused imports
+- 2026-04-29 11:24 update dependency list
