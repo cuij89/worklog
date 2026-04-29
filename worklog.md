@@ -240,3 +240,4 @@
 - 2026-04-28 16:22 drop unused imports
 - 2026-04-29 11:24 update dependency list
 - 2026-04-29 17:29 small doc fix
+- 2026-04-29 12:25 fix path handling
