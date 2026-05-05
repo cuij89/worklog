@@ -243,3 +243,4 @@
 - 2026-04-29 12:25 fix path handling
 - 2026-05-01 14:24 update dependency list
 - 2026-05-04 15:30 clean up config
+- 2026-05-05 11:31 refactor helper functions
