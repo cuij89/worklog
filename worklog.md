@@ -246,3 +246,4 @@
 - 2026-05-05 11:31 refactor helper functions
 - 2026-05-05 17:40 fix path handling
 - 2026-05-05 16:30 clean up config
+- 2026-05-06 15:40 update notes
