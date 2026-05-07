@@ -249,3 +249,4 @@
 - 2026-05-06 15:40 update notes
 - 2026-05-07 18:10 update dependency list
 - 2026-05-07 14:18 small doc fix
+- 2026-05-07 13:21 refactor helper functions
