@@ -248,3 +248,4 @@
 - 2026-05-05 16:30 clean up config
 - 2026-05-06 15:40 update notes
 - 2026-05-07 18:10 update dependency list
+- 2026-05-07 14:18 small doc fix
