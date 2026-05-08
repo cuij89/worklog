@@ -250,3 +250,4 @@
 - 2026-05-07 18:10 update dependency list
 - 2026-05-07 14:18 small doc fix
 - 2026-05-07 13:21 refactor helper functions
+- 2026-05-08 14:30 rename variables for clarity
