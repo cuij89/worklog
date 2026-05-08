@@ -252,3 +252,4 @@
 - 2026-05-07 13:21 refactor helper functions
 - 2026-05-08 14:30 rename variables for clarity
 - 2026-05-08 13:35 fix path handling
+- 2026-05-08 10:13 refactor helper functions
