@@ -256,3 +256,4 @@
 - 2026-05-08 14:07 refactor helper functions
 - 2026-05-13 11:46 fix path handling
 - 2026-05-13 10:21 tweak plotting defaults
+- 2026-05-13 17:59 fix path handling
