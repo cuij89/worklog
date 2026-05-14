@@ -259,3 +259,4 @@
 - 2026-05-13 17:59 fix path handling
 - 2026-05-13 17:58 tweak plotting defaults
 - 2026-05-14 18:54 update notes
+- 2026-05-14 10:31 fix path handling
