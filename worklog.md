@@ -265,3 +265,4 @@
 - 2026-05-18 11:00 drop unused imports
 - 2026-05-19 10:19 drop unused imports
 - 2026-05-25 18:44 add scratch analysis
+- 2026-05-25 13:01 small doc fix
