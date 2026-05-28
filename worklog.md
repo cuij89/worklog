@@ -270,3 +270,4 @@
 - 2026-05-25 15:31 add scratch analysis
 - 2026-05-25 18:19 rename variables for clarity
 - 2026-05-27 17:07 fix path handling
+- 2026-05-28 14:59 update notes
