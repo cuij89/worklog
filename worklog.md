@@ -275,3 +275,4 @@
 - 2026-05-29 16:22 tweak plotting defaults
 - 2026-06-02 12:04 update notes
 - 2026-06-02 10:27 clean up config
+- 2026-06-03 14:18 tweak plotting defaults
