@@ -279,3 +279,4 @@
 - 2026-06-03 13:45 update dependency list
 - 2026-06-09 18:34 drop unused imports
 - 2026-06-09 10:51 fix path handling
+- 2026-06-10 10:02 update notes
