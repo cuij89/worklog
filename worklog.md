@@ -281,3 +281,4 @@
 - 2026-06-09 10:51 fix path handling
 - 2026-06-10 10:02 update notes
 - 2026-06-10 14:11 update notes
+- 2026-06-11 14:05 rename variables for clarity
