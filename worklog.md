@@ -287,3 +287,4 @@
 - 2026-06-16 13:41 fix path handling
 - 2026-06-16 10:02 rename variables for clarity
 - 2026-06-16 11:45 fix path handling
+- 2026-06-16 15:44 clean up config
