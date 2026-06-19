@@ -290,3 +290,4 @@
 - 2026-06-16 15:44 clean up config
 - 2026-06-16 12:55 small doc fix
 - 2026-06-19 16:52 rename variables for clarity
+- 2026-06-19 11:40 refactor helper functions
