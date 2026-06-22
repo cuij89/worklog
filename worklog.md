@@ -291,3 +291,4 @@
 - 2026-06-16 12:55 small doc fix
 - 2026-06-19 16:52 rename variables for clarity
 - 2026-06-19 11:40 refactor helper functions
+- 2026-06-22 10:06 clean up config
