@@ -294,3 +294,4 @@
 - 2026-06-22 10:06 clean up config
 - 2026-06-22 14:13 small doc fix
 - 2026-06-22 18:02 tweak plotting defaults
+- 2026-06-23 15:44 drop unused imports
