@@ -295,3 +295,4 @@
 - 2026-06-22 14:13 small doc fix
 - 2026-06-22 18:02 tweak plotting defaults
 - 2026-06-23 15:44 drop unused imports
+- 2026-06-29 17:10 refactor helper functions
