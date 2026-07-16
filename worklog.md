@@ -304,3 +304,4 @@
 - 2026-07-13 14:18 add scratch analysis
 - 2026-07-15 11:01 drop unused imports
 - 2026-07-15 17:55 drop unused imports
+- 2026-07-16 15:47 fix path handling
