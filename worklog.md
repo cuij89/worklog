@@ -308,3 +308,4 @@
 - 2026-07-16 17:56 update dependency list
 - 2026-07-20 14:44 update notes
 - 2026-07-20 14:52 drop unused imports
+- 2026-07-21 13:53 rename variables for clarity
