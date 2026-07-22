@@ -311,3 +311,4 @@
 - 2026-07-21 13:53 rename variables for clarity
 - 2026-07-21 16:10 fix path handling
 - 2026-07-21 14:44 small doc fix
+- 2026-07-22 16:40 tweak plotting defaults
