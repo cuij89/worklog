@@ -313,3 +313,4 @@
 - 2026-07-21 14:44 small doc fix
 - 2026-07-22 16:40 tweak plotting defaults
 - 2026-07-22 16:42 fix path handling
+- 2026-07-24 18:51 refactor helper functions
