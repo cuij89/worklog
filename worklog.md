@@ -315,3 +315,4 @@
 - 2026-07-22 16:42 fix path handling
 - 2026-07-24 18:51 refactor helper functions
 - 2026-07-24 15:01 update dependency list
+- 2026-07-27 17:43 tweak plotting defaults
