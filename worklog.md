@@ -318,3 +318,4 @@
 - 2026-07-27 17:43 tweak plotting defaults
 - 2026-07-27 14:09 rename variables for clarity
 - 2026-07-28 16:32 drop unused imports
+- 2026-07-28 18:18 refactor helper functions
