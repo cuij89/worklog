@@ -323,3 +323,4 @@
 - 2026-07-28 18:59 drop unused imports
 - 2026-07-28 18:05 drop unused imports
 - 2026-07-30 10:28 refactor helper functions
+- 2026-07-31 10:57 clean up config
