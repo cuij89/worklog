@@ -325,3 +325,4 @@
 - 2026-07-30 10:28 refactor helper functions
 - 2026-07-31 10:57 clean up config
 - 2026-08-10 15:27 add scratch analysis
+- 2026-08-10 10:59 rename variables for clarity
