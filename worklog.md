@@ -332,3 +332,4 @@
 - 2026-08-17 13:07 refactor helper functions
 - 2026-08-18 17:50 small doc fix
 - 2026-08-18 12:06 clean up config
+- 2026-08-19 10:46 clean up config
