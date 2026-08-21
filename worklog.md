@@ -335,3 +335,4 @@
 - 2026-08-19 10:46 clean up config
 - 2026-08-21 18:49 rename variables for clarity
 - 2026-08-21 17:45 add scratch analysis
+- 2026-08-21 15:35 fix path handling
