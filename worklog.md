@@ -336,3 +336,4 @@
 - 2026-08-21 18:49 rename variables for clarity
 - 2026-08-21 17:45 add scratch analysis
 - 2026-08-21 15:35 fix path handling
+- 2026-08-26 13:04 small doc fix
