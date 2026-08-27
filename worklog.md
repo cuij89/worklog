@@ -340,3 +340,4 @@
 - 2026-08-26 10:33 clean up config
 - 2026-08-27 16:00 add scratch analysis
 - 2026-08-27 11:03 rename variables for clarity
+- 2026-08-27 18:20 update notes
