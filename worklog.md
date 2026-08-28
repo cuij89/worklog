@@ -344,3 +344,4 @@
 - 2026-08-27 10:45 refactor helper functions
 - 2026-08-27 13:17 drop unused imports
 - 2026-08-28 12:27 small doc fix
+- 2026-08-28 13:57 update dependency list
